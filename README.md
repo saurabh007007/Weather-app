@@ -1,13 +1,13 @@
 # Weather-app
-<h1>Project: Real-Time Weather App</h1>h1>
+<h1>Project: Real-Time Weather App</h1>
 <p>
 🌦️ Created a dynamic Weather App as part of the Bharat <strong>Internship Web Development Project</strong>. <br>This app fetches real-time weather data using internet connectivity, providing users with accurate and up-to-date information.</p>
 
 <h2>Key Features:</h2>
 <ul>
-<l1>🌐 Utilizes internet resources to fetch live weather data.</l1>
-<l1>📊 Displays comprehensive information, including temperature, humidity, and wind speed.</l1>
-<l1>🎨 Designed with a user-friendly interface using HTML and CSS.</l1>
+<l1>🌐 Utilizes internet resources to fetch live weather data.</l1><br>
+<l1>📊 Displays comprehensive information, including temperature, humidity, and wind speed.</l1><br>
+<l1>🎨 Designed with a user-friendly interface using HTML and CSS.</l1><br>
   </ul>
 Technologies Used:
 
